@@ -22,6 +22,6 @@ Quotes in \`
 
 ```
 
-*** Board ***
+***Board***
 
 [Link to google](https://www.google.com)
